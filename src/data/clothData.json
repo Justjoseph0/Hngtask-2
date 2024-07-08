@@ -1,0 +1,414 @@
+{
+  "clothes": [
+    {
+      "name": "Nike Premium plain white",
+      "price": 88000,
+      "discountedPrice": 80000,
+      "img": "img/white-men.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Nike",
+      "arrivalDate": "2024-01-07"
+
+    },
+    {
+      "name": "Lacoste gold yellow shirt",
+      "price": 70000,
+      "discountedPrice": 65000,
+      "img": "img/yellow-shirt 1.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Lacoste",
+      "arrivalDate": "2024-07-07"
+    },
+    {
+      "name": "Adidas black plain shirt",
+      "price": 65000,
+      "discountedPrice": 55000,
+      "img": "img/black-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Adidas",
+      "arrivalDate": "2024-09-07"
+    },
+    {
+      "name": "Gucci purple plain shirt",
+      "price": 58000,
+      "discountedPrice": 68000,
+      "img": "img/purple-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Gucci",
+      "arrivalDate": "2024-01-04"
+    },
+    {
+      "name": "Gucci red plain shirt",
+      "price": 60000,
+      "discountedPrice": 55000,
+      "img": "img/red-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Gucci",
+      "arrivalDate": "2024-10-01"
+    },
+    {
+      "name": "Nike black plain shirts",
+      "price": 78000,
+      "discountedPrice": 58000,
+      "img": "img/black-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Nike",
+      "arrivalDate": "2024-08-07"
+    },
+    {
+      "name": "Lacoste white plain shirt",
+      "price": 65000,
+      "discountedPrice": 52000,
+      "img": "img/white-men.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Lacoste",
+      "arrivalDate": "2024-04-01"
+    },
+    {
+      "name": "Adidas black plain shirt",
+      "price": 50000,
+      "discountedPrice": 45000,
+      "img": "img/black-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Adidas",
+      "arrivalDate": "2024-02-07"
+    },
+    {
+      "name": "Reebok green plain shirt",
+      "price": 78000,
+      "discountedPrice": 58000,
+      "img": "img/green-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Reebok",
+      "arrivalDate": "2024-02-28"
+    },
+    {
+      "name": "Gucci gold yellow shirt",
+      "price": 40000,
+      "discountedPrice": 35000,
+      "img": "img/yellow-shirt 1.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Gucci",
+      "arrivalDate": "2024-03-27"
+    },
+    {
+      "name": "Adidas red plain shirt",
+      "price": 80000,
+      "discountedPrice": 75000,
+      "img": "img/red-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Adidas",
+      "arrivalDate": "2024-01-17"
+    },
+    {
+      "name": "Reebok white plain shirt",
+      "price": 35000,
+      "discountedPrice": 28000,
+      "img": "img/white-men.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Reebok",
+      "arrivalDate": "2024-09-23"
+    },
+    {
+      "name": "Gucci black plain shirt",
+      "price": 30000,
+      "discountedPrice": 25000,
+      "img": "img/black-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Gucci",
+      "arrivalDate": "2024-12-09"
+    },
+    {
+      "name": "Nike white plain shirt",
+      "price": 28000,
+      "discountedPrice": 20000,
+      "img": "img/white-men.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Nike",
+      "arrivalDate": "2024-04-10"
+    },
+    {
+      "name": "Lacoste faded blue shirt",
+      "price": 50000,
+      "discountedPrice": 45000,
+      "img": "img/blue-shirts .png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Lacoste",
+      "arrivalDate": "2024-09-07"
+    },
+    {
+      "name": "3-in-1 Lacoste plain shirts",
+      "price": 90000,
+      "discountedPrice": 85000,
+      "img": "img/faded-shirts.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Lacoste",
+      "arrivalDate": "2022-12-12"
+    },
+    {
+      "name": "Zara red plain shirt",
+      "price": 55000,
+      "discountedPrice": 45000,
+      "img": "img/red-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Zara",
+      "arrivalDate": "2024-12-01"
+    },
+    {
+      "name": "Lacoste purple shirt",
+      "price": 30000,
+      "discountedPrice": 25000,
+      "img": "img/purple-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Lacoste",
+      "arrivalDate": "2023-05-12"
+    },
+    {
+      "name": "3in1 Gucci plain shirts",
+      "price": 78000,
+      "discountedPrice": 58000,
+      "img": "img/faded-shirts.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Gucci",
+      "arrivalDate": "2023-12-12"
+    },
+    {
+      "name": "Adidas black plain shirt",
+      "price": 30000,
+      "discountedPrice": 25000,
+      "img": "img/black-shirt.png",
+      "size": "M",
+      "category": "Men",
+      "brand": "Adidas",
+      "arrivalDate": "2023-01-01"
+    },
+    {
+      "name": "Nike turquoise plain shirt",
+      "price": 80000,
+      "discountedPrice": 88000,
+      "img": "img/T-Shirt.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Nike",
+      "arrivalDate": "2024-05-12"
+    },
+    {
+      "name": "3in1 Gucci plain shirts",
+      "price": 78000,
+      "discountedPrice": 58000,
+      "img": "img/faded-shirts.png",
+      "size": "M",
+      "category": "unisex",
+      "brand": "Gucci",
+      "arrivalDate": "2024-06-12"
+    },
+    {
+      "name": "Lacoste hot red shirts",
+      "price": 65000,
+      "discountedPrice": 70000,
+      "img": "img/W-red-Shirt.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Lacoste",
+      "arrivalDate": "2024-12-12"
+    },
+    {
+      "name": "Adidas pink plain shirts",
+      "price": 55000,
+      "discountedPrice": 60000,
+      "img": "img/W-purple-Shirt.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Adidas",
+      "arrivalDate": "2012-12-12"
+    },
+    {
+      "name": "Zara white plain shirt",
+      "price": 58000,
+      "discountedPrice": 60000,
+      "img": "img/W-white.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Zara",
+      "arrivalDate": "2023-03-23"
+    },
+    {
+      "name": "Zara black plain shirt",
+      "price": 55000,
+      "discountedPrice": 60000,
+      "img": "img/W-black.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Zara",
+      "arrivalDate": "2023-13-13"
+    },
+    {
+      "name": "Nike pink plain shirts",
+      "price": 58000,
+      "discountedPrice": 60000,
+      "img": "img/W-purple-Shirt.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Nike",
+      "arrivalDate": "2023-12-12"
+    },
+    {
+      "name": "Lacoste turquoise plain shirt",
+      "price": 52000,
+      "discountedPrice": 66000,
+      "img": "img/T-Shirt.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Adidas",
+      "arrivalDate": "2022-09-07"
+    },
+    {
+      "name": "Adidas black plain shirts",
+      "price": 45000,
+      "discountedPrice": 60000,
+      "img": "img/W-black.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Adidas",
+      "arrivalDate": "2023-09-07"
+    },
+    {
+      "name": "Reebok white plain shirt",
+      "price": 58000,
+      "discountedPrice": 78000,
+      "img": "img/W-white.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Reebok",
+      "arrivalDate": "2024-11-22"
+    },
+    {
+      "name": "Gucci angel white shirt",
+      "price": 25000,
+      "discountedPrice": 30000,
+      "img": "img/W-white.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Gucci",
+      "arrivalDate": "2024-07-07"
+    },
+    {
+      "name": "Adidas hot red plain shirts",
+      "price": 75000,
+      "discountedPrice": 80000,
+      "img": "img/W-red-Shirt.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Adidas",
+      "arrivalDate": "2024-05-12"
+    },
+    {
+      "name": "Reebok pink plain shirt",
+      "price": 28000,
+      "discountedPrice": 35000,
+      "img": "img/W-purple-Shirt.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Reebok",
+      "arrivalDate": "2024-8-12"
+    },
+    {
+      "name": "Gucci black plain shirt",
+      "price": 25000,
+      "discountedPrice": 30000,
+      "img": "img/W-black.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Gucci"
+    },
+    {
+      "name": "Nike pink plain shirts",
+      "price": 20000,
+      "discountedPrice": 70000,
+      "img": "img/W-purple-Shirt.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Nike",
+      "arrivalDate": "2024-03-15"
+    },
+    {
+      "name": "Lacoste black plain shirt",
+      "price": 45000,
+      "discountedPrice": 50000,
+      "img": "img/W-black.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Lacoste",
+      "arrivalDate": "2023-12-29"
+    },
+    {
+      "name": "Zara white plain shirt",
+      "price": 85000,
+      "discountedPrice": 90000,
+      "img": "img/W-white.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Zara",
+      "arrivalDate": "2024-10-01"
+    },
+    {
+      "name": "Nike turquoise plain shirt",
+      "price": 80000,
+      "discountedPrice": 88000,
+      "img": "img/T-Shirt.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Nike",
+      "arrivalDate": "2024-11-07"
+    },
+    {
+      "name": "Lacoste black plain shirt",
+      "price": 65000,
+      "discountedPrice": 70000,
+      "img": "img/W-black.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Lacoste",
+      "arrivalDate": "2024-12-25"
+    },
+    {
+      "name": "Reebok pink plain shirt",
+      "price": 55000,
+      "discountedPrice": 60000,
+      "img": "img/W-purple-Shirt.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Reebok",
+      "arrivalDate": "2024-12-27"
+    },
+    {
+      "name": "Gucci white plain shirt",
+      "price": 58000,
+      "discountedPrice": 60000,
+      "img": "img/W-white.png",
+      "size": "M",
+      "category": "Female",
+      "brand": "Gucci",
+      "arrivalDate": "2024-12-07"
+    }
+  ]
+}
