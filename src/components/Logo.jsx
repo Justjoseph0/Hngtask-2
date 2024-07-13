@@ -1,3 +1,4 @@
+import React from "react";
 function Logo() {
   return (
     <section className="mt-5 md:px-24 py-6 bg-custom-white rounded-lg">

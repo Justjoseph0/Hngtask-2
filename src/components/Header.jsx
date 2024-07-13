@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import React from "react";
 function Header() {
     return (
       <header className="md:h-[542px]  bg-[url('/img/Hero.png')] bg-no-repeat bg-cover  rounded-[10px] flex flex-col justify-between items-center relative ">

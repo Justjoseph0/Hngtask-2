@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import React from "react";
 function Freshseason() {
   return (
     <section className="bg-[url('/img/freshSeason.png')] bg-no-repeat bg-cover h-[200px] items-center  md:h-[411px] rounded-lg flex justify-between  my-10 md:my-20 md:py-0 ">

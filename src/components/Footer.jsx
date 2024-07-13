@@ -1,3 +1,4 @@
+import React from "react";
 function Footer() {
     return (
       <footer className="md:py-14 py-6 px-4">
