@@ -6,7 +6,6 @@ import React from "react";
 function Homepages() {
   return (
     <div>
-      <Toaster />
       <Nav />
       <Header />
       <Main />
